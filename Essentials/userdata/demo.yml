@@ -1,0 +1,21 @@
+socialspy: false
+uuid: 63f2f2ba-086b-3b53-8311-c772468d3755
+timestamps:
+  login: 1403604946681
+  logout: 1403605195622
+  lastteleport: 1403604024516
+ipAddress: 127.0.0.1
+lastlocation:
+  world: Spawn
+  x: -759.2424790847953
+  y: 17.0
+  z: -655.0583293830266
+  yaw: 280.55273
+  pitch: 4.1999745
+logoutlocation:
+  world: cidade
+  x: 11.5370245099325
+  y: 65.0
+  z: 4.818484922628344
+  yaw: 85.8
+  pitch: -0.6000029

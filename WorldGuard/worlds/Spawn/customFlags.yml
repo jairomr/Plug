@@ -1,0 +1,4 @@
+regions:
+-   region: spawnpvp
+    flags:
+        keep-inventory: ALLOW

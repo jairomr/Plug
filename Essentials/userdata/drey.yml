@@ -1,0 +1,20 @@
+socialspy: false
+uuid: d0c03e85-a163-3c00-ba54-1d65ef562c6b
+timestamps:
+  login: 1403297758176
+  logout: 1403298852754
+ipAddress: 192.168.254.104
+lastlocation:
+  world: mina
+  x: 63.75042209824689
+  y: 65.0
+  z: -962.826600990084
+  yaw: 74.54998
+  pitch: 11.400003
+logoutlocation:
+  world: world
+  x: 74.08618786381302
+  y: 235.57292917100938
+  z: 547.1727452906999
+  yaw: -26.25061
+  pitch: 90.0

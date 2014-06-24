@@ -1,0 +1,44 @@
+socialspy: false
+uuid: 79a98141-a296-3ccc-8ced-edd88e5155bf
+timestamps:
+  login: 1403475139585
+  lastteleport: 1403481360852
+  logout: 1403492391674
+ipAddress: 25.186.130.179
+lastlocation:
+  world: cidade
+  x: 9.36767220743315
+  y: 66.0
+  z: -4.5514154290145825
+  yaw: -264.75122
+  pitch: 27.149984
+homes:
+  home:
+    world: mundosuvival
+    x: -299.73070855198733
+    y: 62.0
+    z: -25.691260467079584
+    yaw: 3.1434326
+    pitch: 13.949986
+  w:
+    world: mundosuvival
+    x: -152.95637260423368
+    y: 63.0
+    z: -13.379886741502009
+    yaw: -85.95003
+    pitch: -1.7999929
+  i:
+    world: world_nether
+    x: -223.56668867723593
+    y: 57.0
+    z: 118.71333127695404
+    yaw: -270.9038
+    pitch: -1.0500041
+logoutlocation:
+  world: cidade
+  x: -35.93623901458054
+  y: 65.0
+  z: -4.194273349929736
+  yaw: 147.74646
+  pitch: 33.74997
+afk: false

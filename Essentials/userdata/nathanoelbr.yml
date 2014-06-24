@@ -1,0 +1,30 @@
+socialspy: false
+uuid: 68c5f66f-57ce-3eee-aaed-ce482290a3fd
+timestamps:
+  login: 1403582212919
+  logout: 1403582677880
+  lastteleport: 1403563857679
+ipAddress: 25.134.190.237
+lastlocation:
+  world: cidade
+  x: -25.427071013483157
+  y: 65.0
+  z: -25.742054318037717
+  yaw: 139.0647
+  pitch: 19.1998
+logoutlocation:
+  world: cidade
+  x: -34.5
+  y: 69.0
+  z: -6.5
+  yaw: -260.07596
+  pitch: 36.600006
+homes:
+  home:
+    world: mundosuvival
+    x: -300.3621278977937
+    y: 62.0
+    z: -23.533634386308965
+    yaw: 268.1902
+    pitch: 26.849972
+afk: false

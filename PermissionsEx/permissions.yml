@@ -1,0 +1,251 @@
+groups:
+  Default:
+    default: true
+    prefix: '&f[&Membrof]&7 '
+    permissions:
+    - vipzero.user
+    - commandsigns.use.*
+    - essentials.kits.noob
+    - ChestShop.shop.sell
+    - plotme.limit.1
+    - plotme.use.*
+    - arena.join.*
+    - jobs.use
+    - authme.player.*
+    - essentials.help
+    - essentials.helpop
+    - essentials.list
+    - essentials.motd
+    - essentials.rules
+    - essentials.spawn
+    - essentials.jail.allow.help
+    - essentials.jail.allow.helpop
+    - essentials.jail.allow.rules
+    - essentials.afk
+    - essentials.afk.auto
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.balancetop
+    - essentials.book
+    - essentials.chat.color
+    - essentials.chat.format
+    - essentials.chat.shout
+    - essentials.chat.question
+    - essentials.compass
+    - essentials.delhome
+    - essentials.depth
+    - essentials.exp
+    - essentials.getpos
+    - essentials.hat
+    - essentials.home
+    - essentials.ignore
+    - essentials.itemdb
+    - essentials.kit
+    - essentials.kits.tools
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.msg
+    - essentials.msg.color
+    - essentials.msg.format
+    - essentials.nick
+    - essentials.ping
+    - essentials.powertool
+    - essentials.powertooltoggle
+    - essentials.protect
+    - essentials.recipe
+    - essentials.seen
+    - essentials.sethome
+    - essentials.sethome.bed
+    - essentials.suicide
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.worth
+    - essentials.jail.allow.mail
+    - essentials.jail.allow.ping
+    - essentials.jail.allow.seen
+    - lwc.protect
+    - modifyworld.*
+    inheritance:
+    - null
+    options:
+      rank: '1000'
+      build: true
+      suffix: ''
+  Vip1:
+    prefix: '&f[&3Vip&f]&6 '
+    permissions:
+    - ChestShop.shop.buy
+    - essentials.back
+    - plotme.limit.5
+    - essentials.tpahere
+    - ChestShop.shop.*
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.signs.color
+    - essentials.sethome.multiple
+    - essentials.signs.use.*
+    - essentials.signs.create.disposal
+    - essentials.signs.create.mail
+    - essentials.signs.create.trade
+    - essentials.signs.break.disposal
+    - essentials.signs.break.mail
+    - essentials.signs.break.protection
+    - essentials.signs.break.trade
+    inheritance:
+    - Default
+    options:
+      rank: '900'
+      build: true
+      suffix: ''
+  Delegado:
+    default: false
+    prefix: '&f[&5Delegado&f]&5 '
+    permissions:
+    - ChestShop.mod
+    - essentials.kick
+    inheritance:
+    - Vip1
+    options:
+      rank: '800'
+      build: true
+      suffix: ''
+  Beta:
+    prefix: '&f[&6Beta&f]&6 '
+    permissions:
+    - essentials.fly
+    inheritance:
+    - Vip1
+    options:
+      rank: '700'
+      build: true
+      suffix: ''
+  Mod:
+    default: false
+    prefix: '&7[&cMod&7]&c '
+    permissions:
+    - bukkit.command.gamemode
+    - worldedit.*
+    - worldguard.*
+    - ChestShop.mod
+    - essentials.ban
+    - essentials.ban.offline
+    - essentials.tempban
+    - essentials.tempban.offline
+    - essentials.unban
+    - essentials.vanish
+    - essentials.vanish.see
+    - essentials.tp
+    - essentials.tp.others
+    - essentials.chat.url
+    - essentials.nick
+    - essentials.nick.color
+    - essentials.socialspy
+    - lwc.mod
+    inheritance:
+    - Beta
+    - Delegado
+    options:
+      rank: '600'
+      build: true
+      suffix: ''
+  Admin:
+    default: false
+    prefix: '&f[&dGM&f]&d '
+    permissions:
+    - residence.admin
+    - factions.*
+    - arena.admin
+    - jobs.admin
+    - ChestShop.admin
+    - essentials.setspawn
+    - essentials.reloadall
+    - essentials.plugin
+    - essentials.*
+    - bukkit.command.give
+    - bukkit.command.help
+    - bukkit.command.kill
+    - bukkit.command.list
+    - bukkit.command.me
+    - bukkit.command.plugins
+    - bukkit.command.save
+    - bukkit.command.teleport
+    - bukkit.command.tell
+    - bukkit.command.time
+    - bukkit.command.whitelist
+    - bukkit.command.whitelist.add
+    - bukkit.command.whitelist.disable
+    - bukkit.command.whitelist.enable
+    - bukkit.command.whitelist.list
+    - bukkit.command.whitelist.reload
+    - bukkit.command.whitelist.remove
+    - lwc.admin
+    - worldguard.reload
+    - worldguard.region.remove.*
+    - essentials.broadcast
+    - essentials.clearinventory
+    - essentials.god
+    - essentials.time
+    - essentials.time.set
+    - essentials.seen.extra
+    - essentials.invsee
+    - essentials.invsee.modify
+    - essentials.kickall
+    - essentials.tpo
+    - essentials.tpohere
+    - essentials.weather
+    - essentials.gc
+    inheritance:
+    - Mod
+    options:
+      rank: '500'
+      build: true
+      suffix: ''
+  Gm:
+    default: false
+    prefix: '&f[&MegaGm&f]&6 '
+    permissions:
+    - '*'
+    inheritance:
+    - Admin
+    options:
+      rank: '1'
+      build: true
+      suffix: ''
+  Owner:
+    default: false
+    prefix: '&f[&2Dono&f] '
+    permissions:
+    - '*'
+    inheritance:
+    - Admin
+    options:
+      rank: '0'
+      build: true
+      suffix: ''
+users:
+  JairoMR:
+    group:
+    - Owner
+  Demo:
+    group:
+    - Default
+  Limoney:
+    group:
+    - Beta
+  drey:
+    group:
+    - Admin
+  sophie_casper:
+    group:
+    - Beta
+  Nathanoelbr:
+    group:
+    - vip1
+    - default
+  Jairo:
+    group:
+    - default

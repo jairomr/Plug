@@ -1,0 +1,20 @@
+Enable:
+  playervsplayer: false
+  horse_killing_on_roads: false
+  mob_killing_on_roads: true
+  bestride_horse_on_roads: true
+  monster_killing_everywhere: true
+messages:
+  event:
+    nopvp: §7[PlotMeAnimals]§c You can't kill players here!
+    mobprotect: §7[PlotMeAnimals]§c You can't kill animals here!
+    horseprotect: §7[PlotMeAnimals]§c You can't kill horses here!
+  cmd:
+    info: '§7[PlotMeAnimals]§r Allowed Players:'
+    added: §7[PlotMeAnimals]§a Player successfully added.
+    removed: §7[PlotMeAnimals]§a Player successfully removed.
+    toofewarguments: §7[PlotMeAnimals]§c Too few arguments! /pa <arg> <name>
+    notonplot: §7[PlotMeAnimals]§c You're not on a plot.!
+    notonlist: §7[PlotMeAnimals]§f This player is not on the list.
+    nolist: §7[PlotMeAnimals]§f No players have been added yet.
+    nottheowner: §7[PlotMeAnimals]§c Thats not your Plot!

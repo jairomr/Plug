@@ -1,0 +1,30 @@
+socialspy: false
+uuid: 7105ee53-ac10-3cf6-bd0e-8e853eea02e5
+timestamps:
+  login: 1403581746119
+  logout: 1403582685235
+  lastteleport: 1403581988781
+ipAddress: 25.186.130.179
+lastlocation:
+  world: Spawn
+  x: -768.8349840417892
+  y: 16.0
+  z: -688.3818366499368
+  yaw: -31.302778
+  pitch: 7.2000227
+logoutlocation:
+  world: cidade
+  x: -34.557332653192184
+  y: 69.0
+  z: -4.880589359298521
+  yaw: -264.8764
+  pitch: 24.150005
+afk: false
+homes:
+  casaasafe:
+    world: mundosuvival
+    x: -236.31347785591075
+    y: 98.0
+    z: 2004.299450218673
+    yaw: -234.60272
+    pitch: 21.45

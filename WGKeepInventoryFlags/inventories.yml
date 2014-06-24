@@ -1,0 +1,6 @@
+- declaringClass: com.mewin.WGKeepInvFlags.WGKIFlagListener
+  value: {}
+  fieldName: inventories
+- declaringClass: com.mewin.WGKeepInvFlags.WGKIFlagListener
+  value: {}
+  fieldName: armors

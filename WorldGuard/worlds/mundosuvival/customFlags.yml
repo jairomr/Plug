@@ -1,0 +1,4 @@
+regions:
+-   region: survival
+    flags:
+        keep-inventory: ALLOW
