@@ -1,0 +1,67 @@
+portals:
+  survivalspawn:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: JairoMR
+    location: -149.0,63.0,82.0:-145.0,66.0,82.0
+    world: mundosuvival
+    destination: Spawn
+  cidadespawn:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: JairoMR
+    location: 0.0,64.0,0.0:0.0,69.0,0.0
+    world: cidade
+    destination: Spawn
+  survival:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: JairoMR
+    location: -757.0,14.0,-653.0:-755.0,16.0,-651.0
+    world: Spawn
+    destination: mundosuvival
+  cidade:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: JairoMR
+    location: -757.0,14.0,-658.0:-755.0,16.0,-656.0
+    world: Spawn
+    destination: cidade
+  nether:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: JairoMR
+    location: -757.0,14.0,-648.0:-755.0,16.0,-646.0
+    world: Spawn
+    destination: world_nether
+  netherspawn:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: JairoMR
+    location: -8.0,41.0,-22.0:-8.0,44.0,-18.0
+    world: world_nether
+    destination: Spawn

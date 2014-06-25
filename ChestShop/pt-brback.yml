@@ -1,5 +1,5 @@
-prefix: "&3[Loja] &f"
-iteminfo: "&3Item Information: &f"
+prefix: "§a[Loja] §r"
+iteminfo: "§aItem Information: §r"
 
 ACCESS_DENIED: "Voce nao tem permissao para fazer isso!"
 
@@ -44,5 +44,3 @@ INCORRECT_ITEM_ID: "Voce especificou id do item invalido!"
 NOT_ENOUGH_PROTECTIONS: "Voce atingiu o limite de protecao!"
 
 CANNOT_CREATE_SHOP_HERE: "Voce nao pode criar loja aqui!"
-INVALID_SHOP_DETECTED: "The shop cannot be used!"
-

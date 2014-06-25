@@ -34,11 +34,11 @@ worlds:
     keepSpawnInMemory: 'true'
     spawnLocation:
       ==: MVSpawnLocation
-      yaw: 0.0
-      pitch: 0.0
-      z: 3.5
-      y: 66.0
-      x: 3.5
+      yaw: 91.32799
+      pitch: 1.1999912
+      z: 0.5
+      y: 65.0
+      x: -1.5
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
@@ -82,11 +82,11 @@ worlds:
     keepSpawnInMemory: 'true'
     spawnLocation:
       ==: MVSpawnLocation
-      yaw: 0.0
-      pitch: 0.0
-      z: 98.5
-      y: 64.0
-      x: -189.5
+      yaw: 88.9493
+      pitch: -5.699974
+      z: 82.49872968768301
+      y: 63.0
+      x: -152.49824784281222
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
@@ -146,7 +146,7 @@ worlds:
   world_nether:
     ==: MVWorld
     hidden: 'false'
-    alias: world_nether
+    alias: Nether
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -178,11 +178,11 @@ worlds:
     keepSpawnInMemory: 'true'
     spawnLocation:
       ==: MVSpawnLocation
-      yaw: 0.0
-      pitch: 0.0
-      z: 8.5
-      y: 59.0
-      x: -5.5
+      yaw: -273.89987
+      pitch: -2.6999795
+      z: -19.640123379883253
+      y: 41.0
+      x: -12.04581583611069
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
@@ -220,17 +220,17 @@ worlds:
       currency: '-1'
     hunger: 'false'
     autoHeal: 'true'
-    adjustSpawn: 'true'
+    adjustSpawn: 'false'
     portalForm: ALL
     gameMode: SURVIVAL
     keepSpawnInMemory: 'true'
     spawnLocation:
       ==: MVSpawnLocation
-      yaw: 178.8529
-      pitch: 6.5999556
-      z: -663.0326683370126
+      yaw: 178.95016
+      pitch: 4.0499854
+      z: -662.9367034433194
       y: 16.0
-      x: -767.5917908378659
+      x: -767.5494613189785
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
@@ -254,12 +254,12 @@ worlds:
       ==: MVSpawnSettings
       animals:
         ==: MVSpawnSubSettings
-        spawn: 'true'
+        spawn: 'false'
         spawnrate: '-1'
         exceptions: []
       monsters:
         ==: MVSpawnSubSettings
-        spawn: 'true'
+        spawn: 'false'
         spawnrate: '-1'
         exceptions: []
     entryfee:

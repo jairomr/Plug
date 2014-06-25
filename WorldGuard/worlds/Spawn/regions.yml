@@ -10,14 +10,6 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
-    divisa:
-        type: cuboid
-        min: {x: -768.0, y: 1.0, z: -776.0}
-        max: {x: -768.0, y: 25.0, z: -737.0}
-        priority: 0
-        flags: {}
-        owners: {}
-        members: {}
     frente:
         type: cuboid
         min: {x: -724.0, y: 0.0, z: -776.0}
@@ -54,6 +46,14 @@ regions:
         type: cuboid
         min: {x: -812.0, y: 0.0, z: -776.0}
         max: {x: -724.0, y: 0.0, z: -737.0}
+        priority: 0
+        flags: {}
+        owners: {}
+        members: {}
+    mina:
+        type: cuboid
+        min: {x: -812.0, y: 21.0, z: -776.0}
+        max: {x: -724.0, y: 26.0, z: -737.0}
         priority: 0
         flags: {}
         owners: {}

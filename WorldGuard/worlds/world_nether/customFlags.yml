@@ -1,1 +1,4 @@
-regions: []
+regions:
+-   region: in
+    flags:
+        keep-inventory: ALLOW
