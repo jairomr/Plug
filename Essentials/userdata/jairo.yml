@@ -1,17 +1,19 @@
 socialspy: false
 uuid: 79a98141-a296-3ccc-8ced-edd88e5155bf
 timestamps:
-  login: 1403475139585
-  lastteleport: 1403481360852
-  logout: 1403492391674
+  login: 1403748216176
+  lastteleport: 1403745356293
+  logout: 1403748223835
+  kits:
+    ferramenta: 1403745488906
 ipAddress: 25.186.130.179
 lastlocation:
   world: cidade
-  x: 9.36767220743315
-  y: 66.0
-  z: -4.5514154290145825
-  yaw: -264.75122
-  pitch: 27.149984
+  x: -51.423354747248446
+  y: 65.0
+  z: 0.36016405971969545
+  yaw: 264.75085
+  pitch: -5.400023
 homes:
   home:
     world: mundosuvival
@@ -35,11 +37,11 @@ homes:
     yaw: -270.9038
     pitch: -1.0500041
 logoutlocation:
-  world: cidade
-  x: -35.93623901458054
-  y: 65.0
-  z: -4.194273349929736
-  yaw: 147.74646
-  pitch: 33.74997
+  world: Spawn
+  x: -769.9612358370152
+  y: 16.0
+  z: -722.4527805580315
+  yaw: -225.16092
+  pitch: 17.84997
 afk: false
 money: '294.0841738195945'

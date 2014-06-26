@@ -105,7 +105,7 @@ groups:
       suffix: ''
   Mod:
     default: false
-    prefix: '&7[&cMod&7]&c '
+    prefix: '&7[Mod]&c '
     permissions:
     - ChestShop.mod
     - essentials.kick
@@ -142,7 +142,7 @@ groups:
     inheritance:
     - Mod
     options:
-      rank: '5oo'
+      rank: '500'
       build: true
       suffix: ''
   Owner:
@@ -178,4 +178,7 @@ users:
     - default
   Jairo:
     group:
-    - default
+    - Default
+  thiago:
+    group:
+    - vip1

@@ -8,7 +8,7 @@
 player-bars:
   enable: true
   after-name:
-    enable: true
+    enable: false
     display-style: 1
     always-shown: false
     text-mode: false

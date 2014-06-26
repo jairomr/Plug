@@ -1,23 +1,23 @@
 socialspy: false
 uuid: 63f2f2ba-086b-3b53-8311-c772468d3755
 timestamps:
-  login: 1403647651932
-  logout: 1403647742764
-  lastteleport: 1403604024516
-ipAddress: 25.186.130.179
+  login: 1403699678934
+  logout: 1403700217408
+  lastteleport: 1403699757989
+ipAddress: 127.0.0.1
 lastlocation:
   world: Spawn
-  x: -759.2424790847953
-  y: 17.0
-  z: -655.0583293830266
-  yaw: 280.55273
-  pitch: 4.1999745
+  x: -765.310759880541
+  y: 20.0
+  z: -742.1400183379952
+  yaw: 213.45016
+  pitch: 8.999999
 logoutlocation:
-  world: Spawn
-  x: -767.3356978215725
-  y: 21.0
-  z: -735.4752107447317
-  yaw: 175.35016
-  pitch: -1.9500021
+  world: cidade
+  x: 3.414151649943024
+  y: 65.5
+  z: -2.908588741259693
+  yaw: 199.94629
+  pitch: 26.699972
 afk: false
 money: '30.0'

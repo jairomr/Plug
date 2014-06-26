@@ -34,7 +34,7 @@ accounts:
   remove: '<green>Deletada conta: <white>+name<green>.'
   status: <green>Status da conta agora <white>+status<green>.
 top:
-  opening: <green>-----[ <white>Wealthiest Accounts <green>]-----
+  opening: <green>-----[ <white>Contas mais ricas<green>]-----
   item: <gray>+i. <green>+name <gray>- <white>+amount
 error:
   online: <rose>Desculpe, ninguem esta online.

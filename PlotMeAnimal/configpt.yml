@@ -1,14 +1,14 @@
 Enable:
-  playervsplayer: true
+  playervsplayer: flase
   horse_killing_on_roads: true
   mob_killing_on_roads: true
   bestride_horse_on_roads: true
   monster_killing_everywhere: true
 messages:
   event:
-    nopvp: §7[PlotMeAnimals]§c Voce nao pode matar os jogadores aqui!
-    mobprotect: §7[PlotMeAnimals]§c Voce nao pode matar os animais aqui!
-    horseprotect: §7[PlotMeAnimals]§c Voce nao pode matar cavalos aqui!
+    nopvp: §c Voce nao pode matar os jogadores aqui!
+    mobprotect: §c Voce nao pode matar os animais aqui!
+    horseprotect: §c Voce nao pode matar cavalos aqui!
   cmd:
     info: '§7[PlotMeAnimals]§r Allowed Players:'
     added: §7[PlotMeAnimals]§a Jogador adicionado com sucesso.

@@ -1,26 +1,26 @@
 socialspy: false
 uuid: 7105ee53-ac10-3cf6-bd0e-8e853eea02e5
 timestamps:
-  login: 1403654048656
-  logout: 1403654084822
-  lastteleport: 1403654058814
+  login: 1403752229900
+  logout: 1403754166489
+  lastteleport: 1403753877240
   kits:
-    ferramenta: 1403653974755
-ipAddress: 127.0.0.1
+    ferramenta: 1403743958362
+ipAddress: 25.186.130.179
 lastlocation:
   world: world_nether
-  x: -19.00492262329587
-  y: 38.0
-  z: -23.489826859560196
-  yaw: -266.24988
-  pitch: 3.4500203
+  x: -11.04243840623462
+  y: 41.0
+  z: -18.652060739682728
+  yaw: -256.49982
+  pitch: 6.1500206
 logoutlocation:
-  world: Spawn
-  x: -767.5982026705137
-  y: 16.0
-  z: -666.4482519580749
-  yaw: 183.20276
-  pitch: -3.1500242
+  world: cidade
+  x: -30.013320573613267
+  y: 79.85490918786181
+  z: -9.178991721286412
+  yaw: -207.02676
+  pitch: 14.100041
 afk: false
 homes:
   casaasafe:
@@ -31,3 +31,4 @@ homes:
     yaw: -234.60272
     pitch: 21.45
 money: '96.7014638320058'
+powertools: {}

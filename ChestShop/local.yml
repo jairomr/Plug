@@ -19,11 +19,11 @@ NOT_ENOUGH_ITEMS_TO_SELL: "Voce nao tem elementos suficientes para vender!"
 NOT_ENOUGH_STOCK: "Esta loja esta fora de estoque."
 NOT_ENOUGH_STOCK_IN_YOUR_SHOP: "Voce esta sem %material no estoque da loja"
 
-YOU_BOUGHT_FROM_SHOP: "Voce comprou %item do(a) %owner no %price."
+YOU_BOUGHT_FROM_SHOP: "Voce comprou %item do(a) %owner no valor %price."
 SOMEBODY_BOUGHT_FROM_YOUR_SHOP: "%buyer comprou %item no valor %price de voce."
 
 YOU_SOLD_TO_SHOP: "voce vendeu %item para o %buyer no valor %price."
-SOMEBODY_SOLD_TO_YOUR_SHOP: "%seller vendeu %item no valor de %price para voce"
+SOMEBODY_SOLD_TO_YOUR_SHOP: "%seller vendeu %item no valor %price para voce"
 
 YOU_CANNOT_CREATE_SHOP: "Voce nao pode criar este tipo de loja!"
 NO_CHEST_DETECTED: "Nao foi possivel encontrar um bau!"

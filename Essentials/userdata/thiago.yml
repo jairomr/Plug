@@ -1,0 +1,23 @@
+socialspy: false
+uuid: 14f1eb16-4174-3b30-b3ba-38cb5f09be60
+timestamps:
+  login: 1403748211188
+  logout: 1403751579802
+  lastteleport: 1403750737506
+  kits:
+    ferramenta: 1403743999515
+ipAddress: 25.197.192.244
+lastlocation:
+  world: cidade
+  x: -81.1895105466156
+  y: 65.0
+  z: -47.43095008328601
+  yaw: -279.77722
+  pitch: 16.800037
+logoutlocation:
+  world: cidade
+  x: -90.63101767217093
+  y: 65.0
+  z: -42.15383143035597
+  yaw: 270.4759
+  pitch: 10.349999
